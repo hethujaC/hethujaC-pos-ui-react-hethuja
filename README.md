@@ -1,12 +1,23 @@
-# React + Vite
+# Project Overview #
+This Project is a POS UI appplication. It allows to view, filter, and manage products, as well as track products in warehouse 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Technology Stack #
+	React (UI library)
+	Vite (development/build tool)
+	Tailwind CSS (utility-first CSS framework)
+	react-icons (icon library)
+	lucide-react (icon library)
 
-Currently, two official plugins are available:
+# Setup and Run Instructions #
+1. clone the repository
+   git clone https://github.com/hethujaC/hethujaC-pos-ui-react-hethuja.git
+   cd hethujaC-pos-ui-react-hethuja
+   
+2. Install
+   npm install
+   npm install react-icons
+   npm install lucide-react
+   npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   
